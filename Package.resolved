@@ -1,0 +1,33 @@
+{
+  "originHash" : "b9eb4427e2500f9c0dbaba859d9eae0daef2ff35b25214405c9d28f9b4c6db19",
+  "pins" : [
+    {
+      "identity" : "acpkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/subpop/ACPKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "df6b4145e3ea123d57f392c42e2b235dc987f9e4"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser.git",
+      "state" : {
+        "revision" : "6a52f3251125d74daf04fcbd5e6f08a75d074382",
+        "version" : "1.8.2"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log.git",
+      "state" : {
+        "revision" : "9c6fb14227f55d8f711ce3847dc2f419fb0ecacb",
+        "version" : "1.15.1"
+      }
+    }
+  ],
+  "version" : 3
+}
